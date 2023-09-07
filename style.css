@@ -351,7 +351,7 @@ position: relative;
   text-align: center;
   padding: .5rem 0;
   width: 100%;
-}
+} 
 
 .category .box-container .box:hover .content{
 bottom: 0;
